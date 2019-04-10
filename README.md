@@ -12,13 +12,13 @@ So you will be asked to read a new and then share it with your partners. This wa
 ## How we will do it?
 
 So let's start digging a litle bit. Imagine you open your today's AI&ML journal and you see a very interesting new. You read it but that is not enough. You want to understand:
-* If it is so important as the title says (is it really a big step?) or you think it is more important than the title let's suggests.
-* Which part of ML or AI is used and how is it related to ML or AI.
-* What did they do to take the data.
+* If it is so important as the title says (is it really a big step?) or you think it is more important than the title let's suggests. H&M has built a team of 200 data scientists, analysts, and engineers to analyze data ranging from external blog posts to internal purchasing data in 2018 because of the worst stock price in 10 years. The items are very similar in different countries and H&M’s inability to execute quickly has left the company with nearly $4B of unsold inventory.
+* Which part of ML or AI is used and how is it related to ML or AI. Predict prices/ needed stock, probably some sort of regression.
+* What did they do to take the data. They take their own data from app usage, website and stores worldwide.
 * Which data did they use.
 * How did they do to build the model. Which type of model is?
 * Do you know any other project that applies the same techniques? Could you use something for another use case?
-* Do you find any ethical implications? Collateral effects?
+* Do you find any ethical implications? Collateral effects? More sales means worst environment, but maybe it's
 * Do you know any news related?
 
 So you need to look for more information. Maybe the paper the scientists published, other articles, some information about the techniques, ...
